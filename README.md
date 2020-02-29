@@ -1,4 +1,4 @@
 # cppy2020
-Python is a good language, that's why I'm learning it
+Python is a good language.
 
 This repo contains all the python excercises I've done!
